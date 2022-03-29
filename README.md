@@ -1,4 +1,4 @@
-## IGC-Mu-CiBemba : Multimodal Datasets for the Bemba Language
+## Multimodal Datasets for the Bemba Language
 
 ---------------------
 
