@@ -1,12 +1,12 @@
-## `Multimodal Datasets for the Bemba Language`
+### Multimodal Datasets for the Bemba Language`
 
 ---------------------------------------------
 
-### 1. INTRODUCTION
+#### 1. INTRODUCTION
 --------------------
 
 
-### 2. STRUCTURE
+#### 2. STRUCTURE
 -----------------
 
         igc-mu-cibemba
@@ -27,16 +27,13 @@
                          └── test.csv
 
 
-### 3. PROJECT INVESTIGATORS
+#### 3. PROJECT INVESTIGATORS
 ----------------------------
 
 
-### 4. LICENSE
+#### 4. LICENSE
 ---------------
 
 
----------------
-
-
-### 5. CONTACT
+#### 5. CONTACT
 --------------------
