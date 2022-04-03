@@ -54,19 +54,19 @@
         igc-mu-cibemba
             ├── audio
             ├── image
-            └── datasets
-                    └── asr
-                    |    ├── train.csv
-                    |    ├── dev.csv
-                    |    └── test.csv   
-                    └── st
-                    |    ├── train.csv
-                    |    ├── dev.csv
-                    |    └── test.csv
-                    └── mt
-                         ├── train.csv
-                         ├── dev.csv
-                         └── test.csv
+            └── text
+                  └── asr
+                  |    ├── train.csv
+                  |    ├── dev.csv
+                  |    └── test.csv   
+                  └── st
+                  |    ├── train.csv
+                  |    ├── dev.csv
+                  |    └── test.csv
+                  └── mt
+                       ├── train.csv
+                       ├── dev.csv
+                       └── test.csv
 
 
 #### 3. TEAM
