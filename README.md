@@ -51,22 +51,29 @@
 #### 2. STRUCTURE
 -----------------
 
-        igc-mu-cibemba
+      igc-mu-cibemba/
+        ├── csv
+        │   ├── asr
+        │   │   ├── igc-mu-cibemba-asr.csv
+        │   │   ├── dev.csv
+        │   │   ├── test.csv
+        │   │   └── train.csv
+        │   ├── mt
+        │   │   ├── igc-mu-cibemba-mt.csv
+        │   │   ├── dev.csv
+        │   │   ├── test.csv
+        │   │   └── train.csv
+        │   ├── st
+        │   │   ├── igc-mu-cibemba-st.csv
+        │   │   ├── dev.csv
+        │   │   ├── test.csv
+        │   │   └── train.csv
+        │   └── text
+        │       ├── bemba
+        │       └── english
+        └── data
             ├── audio
-            ├── image
-            └── csv
-                  └── asr
-                  |    ├── train.csv
-                  |    ├── dev.csv
-                  |    └── test.csv   
-                  └── st
-                  |    ├── train.csv
-                  |    ├── dev.csv
-                  |    └── test.csv
-                  └── mt
-                       ├── train.csv
-                       ├── dev.csv
-                       └── test.csv
+            └── image
 
 
 #### 3. TEAM
