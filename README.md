@@ -22,7 +22,7 @@
 <tbody>
   <tr>
     <td> 1 </td>
-    <td><a href=" ">ASR</a></td>
+    <td><a href="#">ASR</a></td>
     <td>17, 519</td>
     <td>160</td>
     <td>85, 467</td>
@@ -30,7 +30,7 @@
   </tr>
   <tr>
     <td> 2 </td>
-    <td><a href=" ">MT</a></td>
+    <td><a href="#">MT</a></td>
     <td>17, 200</td>
     <td> - </td>
     <td> 86, 000 </td>
@@ -38,7 +38,7 @@
   </tr>
   <tr>
     <td> 3 </td>
-    <td><a href=" ">ST</a></td>
+    <td><a href="#">ST</a></td>
     <td>16, 290</td>
     <td>150</td>
     <td> 79, 694 </td>
