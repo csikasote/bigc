@@ -55,19 +55,19 @@
         ├── csv
         │   ├── asr
         │   │   ├── igc-mu-cibemba-asr.csv
-        │   │   ├── dev.csv
-        │   │   ├── test.csv
-        │   │   └── train.csv
+        │   │   ├── igc-asr-devset.csv
+        │   │   ├── igc-asr-testset.csv
+        │   │   └── igs-asr-trainset.csv
         │   ├── mt
         │   │   ├── igc-mu-cibemba-mt.csv
-        │   │   ├── dev.csv
-        │   │   ├── test.csv
-        │   │   └── train.csv
+        │   │   ├── igc-mt-devset.csv
+        │   │   ├── igc-mt-testset.csv
+        │   │   └── igc-mt-trainset.csv
         │   ├── st
         │   │   ├── igc-mu-cibemba-st.csv
-        │   │   ├── dev.csv
-        │   │   ├── test.csv
-        │   │   └── train.csv
+        │   │   ├── igc-st-devset.csv
+        │   │   ├── igc-st-testset.csv
+        │   │   └── igc-st-trainset.csv
         │   └── text
         │       ├── bemba
         │       └── english
