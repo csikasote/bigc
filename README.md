@@ -54,7 +54,7 @@
         igc-mu-cibemba
             ├── audio
             ├── image
-            └── text
+            └── csv
                   └── asr
                   |    ├── train.csv
                   |    ├── dev.csv
