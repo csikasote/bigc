@@ -54,20 +54,11 @@
       igc-mu-cibemba/
         ├── csv
         │   ├── asr
-        │   │   ├── igc-mu-cibemba-asr.csv
-        │   │   ├── igc-asr-devset.csv
-        │   │   ├── igc-asr-testset.csv
-        │   │   └── igs-asr-trainset.csv
+        │   │   ├── igc-mu-cibemba-asr.csvv
         │   ├── mt
         │   │   ├── igc-mu-cibemba-mt.csv
-        │   │   ├── igc-mt-devset.csv
-        │   │   ├── igc-mt-testset.csv
-        │   │   └── igc-mt-trainset.csv
         │   ├── st
         │   │   ├── igc-mu-cibemba-st.csv
-        │   │   ├── igc-st-devset.csv
-        │   │   ├── igc-st-testset.csv
-        │   │   └── igc-st-trainset.csv
         │   └── text
         │       ├── bemba
         │       └── english
