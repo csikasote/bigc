@@ -98,3 +98,4 @@ This repository contains the data resources for the project `multimodal datasets
 
 #### 4. License
 ---------------
+The dataset is made available to the research community licensed under the [Creative Commons BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) license
