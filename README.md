@@ -98,7 +98,3 @@ This repository contains the data resources for the project `multimodal datasets
 
 #### 4. License
 ---------------
-
-
-#### 5. Contact
----------------
