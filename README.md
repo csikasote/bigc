@@ -10,14 +10,14 @@ This repository contains the data resources for the project `multimodal datasets
 <div class="tg-wrap"><table>
 <thead>
   <tr>
-    <th>No. of images</th>
-    <th>No. of Utterances</th>
-    <th>No. of Hours</th>
+    <th>Images</th>
+    <th>Utterances</th>
+    <th>Hours</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td>17, 519</td>
+    <td>15, 138</td>
     <td>85, 467</td>
     <td>160</td>
   </tr>
