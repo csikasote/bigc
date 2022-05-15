@@ -92,10 +92,13 @@ This repository contains the data resources for the project `multimodal datasets
 #### 3. Team
 ----------------------------
 
+* [Claytone Sikasote](https://csikasote.github.io/), [University of Zambia](https://www.unza.zm/), Zambia
+* Eunice-Mukonda Mulenga, [University of Zambia](https://www.unza.zm/), Zambia
+* [Antonios Anastasopoulos](https://cs.gmu.edu/~antonis/author/antonios-anastasopoulos/), George Mason University, U.S.A
 
 #### 4. License
 ---------------
 
 
 #### 5. Contact
---------------------
+---------------
