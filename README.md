@@ -24,48 +24,7 @@ This repository contains the data resources for the project `multimodal datasets
 </tbody>
 </table></div>
 
-
-
-
-##### Tasks
-
-<div class="tg-wrap"><table>
-<thead>
-  <tr>
-    <th>ID</th>
-    <th>Subset</th>
-    <th>Utterances</th>
-    <th>Hours</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td>1</td>
-    <td>train</td>
-    <td>76440</td>
-    <td>152</td>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td>valid</td>
-    <td>2520</td>
-    <td>5</td>
-  </tr>
-  <tr>
-    <td>3</td>
-    <td>test</td>
-    <td>2481</td>
-    <td>5</td>
-  </tr>
-  <tr>
-    <td>4</td>
-    <td>unaligned</td>
-    <td>4026</td>
-    <td>8</td>
-  </tr>
-</tbody>
-</table></div>
-
+##### Subsets
 
 <div class="tg-wrap"><table>
 <thead>
@@ -83,9 +42,9 @@ This repository contains the data resources for the project `multimodal datasets
     <td> 1 </td>
     <td><a href="#">ASR</a></td>
     <td>15, 138</td>
-    <td>160</td>
+    <td>170</td>
     <td>85, 467</td>
-    <td>Automatic Speech Recognition</td>
+    <td>Bemba ASR </td>
   </tr>
   <tr>
     <td> 2 </td>
@@ -98,7 +57,7 @@ This repository contains the data resources for the project `multimodal datasets
   <tr>
     <td> 3 </td>
     <td><a href="#">ST</a></td>
-    <td>16, 290</td>
+    <td>14, 182</td>
     <td>150</td>
     <td> 79, 694 </td>
     <td>Bemba => English Speech Tanslation</td>
