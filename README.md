@@ -1,12 +1,33 @@
-### Multimodal Datasets for the Bemba Language`
-
+# Multimodal Datasets for the Bemba Language
 ---------------------------------------------
 
-#### 1. INTRODUCTION
---------------------
+#### 1. Introduction
+This repository contains the data resources for the project `multimodal datasets for the Bemba language`.  The dataset contains image-grounded-conversations in the Bemba language of Zambia. The dataset will enable the development of `speech recognition`, `speech and text translation` applications, as well as facilitate research in language grounding and multimodal model development. 
 
 
-##### DATASETS 
+##### Data Summary
+
+<div class="tg-wrap"><table>
+<thead>
+  <tr>
+    <th>No. of images</th>
+    <th>No. of Utterances</th>
+    <th>No. of Hours</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>17, 519</td>
+    <td>85, 467</td>
+    <td>160</td>
+  </tr>
+</tbody>
+</table></div>
+
+
+
+
+##### Tasks
 
 <div class="tg-wrap"><table>
 <thead>
@@ -48,7 +69,7 @@
 </table></div>
 
 
-#### 2. STRUCTURE
+#### 2. Structure
 -----------------
 
       igc-mu-cibemba
@@ -57,25 +78,24 @@
           │   ├── mt
           │   ├── st
           │   └── text
-          │       ├── bemba
-          │       └── english
           ├── data
           │   ├── audio
           │   └── image
           └── splits
-              └── flickr_bemba_igc_splits
-                  ├── flickr30k_image_splits
-                  └── flickr8k_image_splits
+              └── flickr30k_bemba_igc_splits
+                  ├── train_split.jsonl
+                  ├── valid_split.jsonl
+                  ├── test_split.jsonl
+                  └── unaligned_split.jsonl
+              
 
-
-
-#### 3. TEAM
+#### 3. Team
 ----------------------------
 
 
-#### 4. LICENSE
+#### 4. License
 ---------------
 
 
-#### 5. CONTACT
+#### 5. Contact
 --------------------
