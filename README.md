@@ -2,10 +2,7 @@
 ---------------------------------------------
 
 #### 1. Introduction
-This repository contains the data resources for the project `multimodal datasets for the Bemba language`.  The dataset contains 15, 138 image-grounded-conversations in the Bemba language of Zambia recorded by mostly native Bemba speakers. The dataset will enable the development of `speech recognition`, `speech and text translation` applications, as well as facilitate research in language grounding and multimodal model development. 
-
-
-##### Data Summary
+This repository contains the data resources for the project `multimodal datasets for the Bemba language`.  The dataset contains 15, 138 image-grounded-conversations in the Bemba language of Zambia. The dataset will enable the development of `speech recognition`, `speech and text translation` applications, as well as facilitate research in language grounding and multimodal model development. The summary of the dataset is given below:
 
 <div class="tg-wrap"><table>
 <thead>
