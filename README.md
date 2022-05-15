@@ -87,7 +87,10 @@ This repository contains the data resources for the project `multimodal datasets
                   ├── valid_split.jsonl
                   ├── test_split.jsonl
                   └── unaligned_split.jsonl
-              
+            
+* `\data\audio` contains the audio files
+* `\data\image` contains the image files
+* `\splits` dataset splits aligned to original `Flickr30K` splits
 
 #### 3. Team
 ----------------------------
