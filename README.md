@@ -82,7 +82,7 @@ This repository contains the data resources for the project `multimodal datasets
   <tr>
     <td> 1 </td>
     <td><a href="#">ASR</a></td>
-    <td>17, 519</td>
+    <td>15, 138</td>
     <td>160</td>
     <td>85, 467</td>
     <td>Automatic Speech Recognition</td>
