@@ -51,7 +51,7 @@ This repository contains the data resources for the project `multimodal datasets
     <td><a href="#">MT</a></td>
     <td>17, 200</td>
     <td> - </td>
-    <td> 86, 000 </td>
+    <td> 79, 690 </td>
     <td>Bemba <=> English Text Translation</td>
   </tr>
   <tr>
@@ -59,7 +59,7 @@ This repository contains the data resources for the project `multimodal datasets
     <td><a href="#">ST</a></td>
     <td>14, 182</td>
     <td>150</td>
-    <td> 79, 694 </td>
+    <td> 79, 690 </td>
     <td>Bemba => English Speech Tanslation</td>
   </tr>
 </tbody>
