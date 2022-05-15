@@ -19,7 +19,7 @@ This repository contains the data resources for the project `multimodal datasets
   <tr>
     <td>15, 138</td>
     <td>85, 467</td>
-    <td>160</td>
+    <td>170</td>
   </tr>
 </tbody>
 </table></div>
@@ -33,15 +33,35 @@ This repository contains the data resources for the project `multimodal datasets
 <thead>
   <tr>
     <th>ID</th>
-    <th></th>
-    <th>No. of Hours</th>
+    <th>Subset</th>
+    <th>Utterances</th>
+    <th>Hours</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td>17, 519</td>
-    <td>85, 467</td>
-    <td>160</td>
+    <td>1</td>
+    <td>train</td>
+    <td>76440</td>
+    <td>152</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>valid</td>
+    <td>2520</td>
+    <td>5</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>test</td>
+    <td>2481</td>
+    <td>5</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>unaligned</td>
+    <td>4026</td>
+    <td>8</td>
   </tr>
 </tbody>
 </table></div>
