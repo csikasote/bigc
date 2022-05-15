@@ -32,6 +32,24 @@ This repository contains the data resources for the project `multimodal datasets
 <div class="tg-wrap"><table>
 <thead>
   <tr>
+    <th>ID</th>
+    <th></th>
+    <th>No. of Hours</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>17, 519</td>
+    <td>85, 467</td>
+    <td>160</td>
+  </tr>
+</tbody>
+</table></div>
+
+
+<div class="tg-wrap"><table>
+<thead>
+  <tr>
     <th> ID </th>
     <th>DATASET</th>
     <th>IMAGES</th>
