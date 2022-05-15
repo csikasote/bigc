@@ -20,7 +20,7 @@ This repository contains the data resources for the project `multimodal datasets
   <tr>
     <td>15, 138</td>
     <td>85, 467</td>
-    <td></td>
+    <td>14,182</td>
     <td>170</td>
   </tr>
 </tbody>
