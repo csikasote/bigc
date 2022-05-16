@@ -79,7 +79,7 @@ This repository contains the data resources for the project `multimodal datasets
             
 * `\data\audio` contains the audio files
 * `\data\image` contains the image files
-* `data\splits` contains datasets splits aligned to original `Flickr30K` splits
+* `\data\splits` contains the dataset splits aligned to original `Flickr30K` splits
 
 #### 3. Team
 ----------------------------
