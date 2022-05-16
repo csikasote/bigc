@@ -1,7 +1,9 @@
+[![License: CC BY NC ND 4.0](https://img.shields.io/badge/License-CC_BY_NC_ND_4.0-green.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+
 # Multimodal Datasets for the Bemba Language
 ---------------------------------------------
 
-#### 1. Introduction
+#### Introduction
 This repository contains the data resources for the project `multimodal datasets for the Bemba language`.  The dataset contains 15, 138 image-grounded-conversations in the Bemba language of Zambia. The dataset will enable the development of `speech recognition`, `speech and text translation` applications, as well as facilitate research in language grounding and multimodal model development. The summary of the dataset is given below:
 
 <div class="tg-wrap"><table>
@@ -63,7 +65,7 @@ This repository contains the data resources for the project `multimodal datasets
 </table></div>
 
 
-#### 2. Structure
+#### Structure
 -----------------
 
       igc-mu-cibemba
@@ -81,13 +83,13 @@ This repository contains the data resources for the project `multimodal datasets
 * `\data\image` contains the image files
 * `\data\splits` contains the dataset splits aligned to original `Flickr30K` splits
 
-#### 3. Team
+#### Team
 ----------------------------
 
 * [Claytone Sikasote](https://csikasote.github.io/), [University of Zambia](https://www.unza.zm/), Zambia
 * Eunice-Mukonda Mulenga, [University of Zambia](https://www.unza.zm/), Zambia
 * [Antonios Anastasopoulos](https://cs.gmu.edu/~antonis/author/antonios-anastasopoulos/), [George Mason University](https://cs.gmu.edu/~antonis/), U.S.A
 
-#### 4. License
+#### License
 ---------------
-The work is licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
+The work is licensed under the [Creative Commons Attribution BY-NC-ND-4.0 International License](https://creativecommons.org/licenses/by/4.0/).
