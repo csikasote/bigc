@@ -67,24 +67,19 @@ This repository contains the data resources for the project `multimodal datasets
 -----------------
 
       igc-mu-cibemba
-          ├── csv
-          │   ├── asr
-          │   ├── mt
-          │   ├── st
-          │   └── text
-          ├── data
-          │   ├── audio
-          │   └── image
-          └── splits
-              └── flickr30k_bemba_igc_splits
-                  ├── train_split.jsonl
-                  ├── valid_split.jsonl
-                  ├── test_split.jsonl
-                  └── unaligned_split.jsonl
+          └── data
+              ├── splits
+              │   ├── asr
+              │   ├── mt
+              │   ├── st
+              │   └── igc
+              ├── audio
+              └── image
+       
             
 * `\data\audio` contains the audio files
 * `\data\image` contains the image files
-* `\splits`, contains datasets splits aligned to original `Flickr30K` splits
+* `data\splits` contains datasets splits aligned to original `Flickr30K` splits
 
 #### 3. Team
 ----------------------------
