@@ -96,5 +96,5 @@ The data resources in this repository is licensed under the [Creative Commons At
 
 #### Acknowledgements
 ----------------------
-This work was funded by [Lacuna Fund](https://lacunafund.org/) under the project grant number 2020-20-055 (19397.70)
+This work was funded by [Lacuna Fund](https://lacunafund.org/) under the project grant number 2020-20-055 (19397.70).
 
