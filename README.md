@@ -10,7 +10,7 @@ This repository contains the data resources for the project `multimodal datasets
 <thead>
   <tr>
     <th>Images</th>
-    <th>Utterances</th>
+    <th>Utterances/Sentences</th>
     <th>Hours</th>
   </tr>
 </thead>
