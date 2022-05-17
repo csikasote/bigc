@@ -47,7 +47,7 @@ This repository contains the data resources for the project `multimodal datasets
   </tr>
   <tr>
     <td> 3 </td>
-    <td><a href="#">ST</a>/<a href="#">MT</a></td>
+    <td><a href="#">STT</a>/<a href="#">MT</a></td>
     <td>14, 182</td>
     <td>150</td>
     <td> 79, 690 </td>
