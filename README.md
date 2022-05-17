@@ -39,19 +39,11 @@ This repository contains the data resources for the project `multimodal datasets
 <tbody>
   <tr>
     <td> 1 </td>
-    <td><a href="#">ASR</a></td>
+    <td><a href="#">Automatic Speech Recognition</a></td>
     <td>15, 138</td>
     <td>170</td>
     <td>85, 467</td>
     <td>Bemba ASR </td>
-  </tr>
-  <tr>
-    <td> 2 </td>
-    <td><a href="#">MT</a></td>
-    <td>14, 182</td>
-    <td> - </td>
-    <td> 79, 690 </td>
-    <td>Bemba <=> English Text Translation</td>
   </tr>
   <tr>
     <td> 3 </td>
@@ -59,7 +51,7 @@ This repository contains the data resources for the project `multimodal datasets
     <td>14, 182</td>
     <td>150</td>
     <td> 79, 690 </td>
-    <td>Bemba => English Speech Tanslation</td>
+    <td>Bemba => English Speech/Text Tanslation</td>
   </tr>
 </tbody>
 </table></div>
