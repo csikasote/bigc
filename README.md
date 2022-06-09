@@ -6,19 +6,40 @@
 #### Introduction
 This repository contains the data resources for the project `multimodal datasets for the Bemba language`.  The dataset contains 15, 138 image-grounded-conversations in the Bemba language of Zambia. The dataset will enable the development of `speech recognition`, `speech and text translation` applications, as well as facilitate research in language grounding and multimodal model development. The summary of the dataset is given below:
 
+
 <div class="tg-wrap"><table>
 <thead>
   <tr>
-    <th>Images</th>
-    <th>Utterances/Sentences</th>
-    <th>Hours</th>
+    <th>ID</th>
+    <th>Description</th>
+    <th>Number</th>
   </tr>
 </thead>
 <tbody>
   <tr>
+    <td>1</td>
+    <td>number of conversations = number of images</td>
     <td>15, 138</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>total number of spoken utterances/sentences </td>
     <td>85, 467</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>number of transcriptions translated to English</td>
+    <td>79, 690</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>total number of hours transcribed speech</td>
     <td>170</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>number of hours translated to English</td>
+    <td>150</td>
   </tr>
 </tbody>
 </table></div>
