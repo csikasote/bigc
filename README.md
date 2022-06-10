@@ -44,40 +44,6 @@ This repository contains the data resources for the project `multimodal datasets
 </tbody>
 </table></div>
 
-##### Subsets
-
-<div class="tg-wrap"><table>
-<thead>
-  <tr>
-    <th> ID </th>
-    <th>DATASET</th>
-    <th>IMAGES</th>
-    <th>HOURS</th>
-    <th>UTTERANCE/SENTENCES</th>
-    <th>TASK DESCRIPTION</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td> 1 </td>
-    <td><a href="#">ASR</a></td>
-    <td>15, 138</td>
-    <td>170</td>
-    <td>85, 467</td>
-    <td>Automatic Speech Recognition </td>
-  </tr>
-  <tr>
-    <td> 2 </td>
-    <td><a href="#">STT</a>/<a href="#">MT</a>/<a href="#">IGC</a></td>
-    <td>14, 182</td>
-    <td>150</td>
-    <td> 79, 690 </td>
-    <td>Speech/Machine Translation</td>
-  </tr>
-</tbody>
-</table></div>
-
-
 #### Structure
 -----------------
 
