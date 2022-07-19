@@ -34,7 +34,7 @@ This repository contains the data resources for the project `multimodal datasets
   <tr>
     <td>4</td>
     <td>total number of hours transcribed speech</td>
-    <td>170</td>
+    <td>187</td>
   </tr>
   <tr>
     <td>5</td>
