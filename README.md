@@ -29,7 +29,7 @@ This repository contains the data resources for the project `multimodal datasets
   <tr>
     <td>3</td>
     <td>number of transcriptions translated to English</td>
-    <td>86, 405</td>
+    <td>92, 117</td>
   </tr>
   <tr>
     <td>4</td>
