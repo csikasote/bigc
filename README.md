@@ -24,7 +24,7 @@ This repository contains the data resources for the project `multimodal datasets
   <tr>
     <td>2</td>
     <td>total number of spoken utterances/sentences </td>
-    <td>92, 182</td>
+    <td>92, 117</td>
   </tr>
   <tr>
     <td>3</td>
