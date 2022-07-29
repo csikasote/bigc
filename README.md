@@ -18,7 +18,7 @@ This repository contains the data resources for the project `multimodal datasets
 <tbody>
   <tr>
     <td>1</td>
-    <td>number of conversations = number of images</td>
+    <td>number of unique images</td>
     <td>16, 229</td>
   </tr>
   <tr>
@@ -40,6 +40,11 @@ This repository contains the data resources for the project `multimodal datasets
     <td>5</td>
     <td>number of hours translated to English</td>
     <td>187</td>
+  </tr>
+  <tr>
+    <td>6</td>
+    <td>number of conversations</td>
+    <td>19, 011</td>
   </tr>
 </tbody>
 </table></div>
