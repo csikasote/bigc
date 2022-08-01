@@ -43,7 +43,7 @@ This repository contains the data resources for the project `multimodal datasets
   </tr>
   <tr>
     <td>6</td>
-    <td>number of conversations</td>
+    <td>number of complete conversations</td>
     <td>19, 011</td>
   </tr>
 </tbody>
