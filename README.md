@@ -52,15 +52,25 @@ This repository contains the data resources for the project `multimodal datasets
 #### Structure
 -----------------
 
-      igc-mu-cibemba
+      igc-mu-cibemba          .
           └── data
-              ├── splits
-              │   ├── asr
-              │   ├── mt
-              │   ├── st
-              │   └── igc
-              ├── audio
-              └── image
+              ├── datasheet.csv
+              ├── audio/*.wav
+              ├── image/*.jpg
+              └── splits
+                  ├── conversations
+                  │   ├── conversations.jsonl
+                  │   ├── duplicate.zip
+                  │   ├── test.jsonl
+                  │   ├── train.jsonl
+                  │   ├── unaligned.jsonl
+                  │   └── valid.jsonl
+                  ├── test.jsonl
+                  ├── train.jsonl
+                  ├── unaligned.jsonl
+                  └── valid.jsonl
+
+
        
             
 * `\data\audio` contains the audio files
