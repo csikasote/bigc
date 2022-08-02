@@ -57,8 +57,8 @@ This repository contains the data resources for the project `multimodal datasets
               ├── datasheet.csv
               ├── audio/*.wav
               ├── image/*.jpg
-              └── splits
-                  ├── conversations
+              └── splits/
+                  ├── conversations/
                   │   ├── conversations.jsonl
                   │   ├── duplicate.zip
                   │   ├── test.jsonl
