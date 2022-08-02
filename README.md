@@ -49,7 +49,7 @@ This repository contains the data resources for the project `multimodal datasets
 </tbody>
 </table></div>
 
-#### Structure
+#### File Organization
 -----------------
 
       igc-mu-cibemba          .
