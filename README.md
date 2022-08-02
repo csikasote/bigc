@@ -73,7 +73,9 @@ This repository contains the data resources for the project `multimodal datasets
 * `/data/datasheet.csv` the main data file
 * `/data/audio/*.wav` contains the audio files
 * `/data/image/*.jpg` contains the image files
-* `/data/splits/*` contains the dataset splits aligned to original `Flickr30K` splits
+* `/data/splits/*` contains the dataset splits aligned to original `Flickr30K` splits.
+
+NB: If you are running experiments in Colab, you can generate the splits for the ASR, MT and ST experiments using the Colab file [HERE](https://drive.google.com/file/d/1A1YTL9iJYknevRCJe-XE-DBX0-UooWNh/view?usp=sharing).
 
 #### Team
 ----------------------------
