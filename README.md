@@ -54,7 +54,7 @@ This repository contains the data resources for the project `multimodal datasets
 
       igc-mu-cibemba          
           .
-          ├── Datasheet for Dataset_DRAFT
+          ├── Datasheet_for_Dataset_DRAFT
           ├── README.md
           └── data
               ├── datasheet.csv
