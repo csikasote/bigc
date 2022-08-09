@@ -80,6 +80,8 @@ This repository contains the data resources for the project `multimodal datasets
 
 NB: If you are running experiments in Colab, you can generate the splits for the ASR, MT and ST experiments using the Colab file [HERE](https://drive.google.com/file/d/1A1YTL9iJYknevRCJe-XE-DBX0-UooWNh/view?usp=sharing).
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/weiji14/deepbedmap/]
+
 #### Team
 ----------------------------
 
