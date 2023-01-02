@@ -69,7 +69,7 @@ This repository contains the data resources for the project `multimodal datasets
                   │   ├── unaligned.jsonl
                   │   └── valid.jsonl
                   ├── *.jsonl
-                  └── *.jsonl
+                  └── *.tsv
 
 * `/data/datasheet.csv` the main data file
 * `/data/audio/*.wav` contains the audio files
