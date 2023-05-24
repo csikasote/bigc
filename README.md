@@ -4,13 +4,42 @@
 ---------------------------------------------
 
 #### Introduction
-This repository contains the data resources for the project `multimodal datasets for the Bemba language`.  The dataset consists ofa parallel corpus of speech and transcriptions of image-grounded dialogues between Bemba speakers and their corresponding English translations. It contains 92, 117 spoken utterances of both complete and incomplete dialogues, amounting to 187 hours of speech data grounded on 16, 229 unique images. The dataset will enable the development of `speech recognition`, `speech and text translation` systems for Bemba, as well as facilitate research in language grounding and multimodal model development. The summary of the dataset is given below:
+This repository contains the data resources for the project `multimodal datasets for the Bemba language`.  The dataset consists ofa parallel corpus of speech and transcriptions of image-grounded dialogues between Bemba speakers and their corresponding English translations. It contains 92, 117 spoken utterances of both complete and incomplete dialogues, amounting to 187 hours of speech data grounded on 16, 229 unique images. The dataset will enable the development of `speech recognition`, `speech and text translation` systems for Bemba, as well as facilitate research in language grounding and multimodal model development. See below an example of the data included in BIG-C. The grounding image (top) and the ensuing Bemba dialogue transcribed and translated in English: <br>
+
 <div align="center">
   <p align="center">
-    <img src="https://github.com/csikasote/bigc/blob/main/data/bem/image/sample.png">
-    <h6>Example of the data included in BIG-C. The grounding image (top) and the ensuing Bemba dialogue transcribed and translated in English.</h6>
+    <img src="https://github.com/csikasote/bigc/blob/main/data/bem/image/sample.png" width="497" height="609">
   </p>
 </div>
+
+#### File Structure
+-----------------
+
+      big-c dataset          
+          .
+          ├── Datasheet_for_Dataset_DRAFT
+          ├── README.md
+          └── data
+              └── bem
+                  ├── datasheet.csv
+                  ├── audio/*.wav
+                  ├── image/*.jpg
+                  └── splits/
+                      ├── conversations/
+                      │   ├── conversations.jsonl
+                      │   ├── duplicate.zip
+                      │   ├── test.jsonl
+                      │   ├── train.jsonl
+                      │   ├── unaligned.jsonl
+                      │   └── valid.jsonl
+                      ├── *.jsonl
+                      └── *.tsv
+
+  * /data/datasheet.csv` the main data file
+  * /data/bem/audio/*.wav` audio files
+  * /data/bem/image/*.jpg  image files
+  * /data/bem/splits/*.tsv splt files saved in TSV format
+  * /data/bem/splits/*.jsonl splt files saved in json line format
 
 #### Team
 ----------------------------
