@@ -4,7 +4,9 @@
 ---------------------------------------------
 
 #### Introduction
-This repository contains the data resources for the project `multimodal datasets for the Bemba language`.  The dataset consists ofa parallel corpus of speech and transcriptions of image-grounded dialogues between Bemba speakers and their corresponding English translations. It contains 92, 117 spoken utterances of both complete and incomplete dialogues, amounting to 187 hours of speech data grounded on 16, 229 unique images. The dataset will enable the development of `speech recognition`, `speech and text translation` systems for Bemba, as well as facilitate research in language grounding and multimodal model development. 
+This repository contains the data resources for the project `multimodal datasets for the Bemba language`.  The dataset consists ofa parallel corpus of speech and transcriptions of image-grounded dialogues between Bemba speakers and their corresponding English translations. It contains 92, 117 spoken utterances of both complete and incomplete dialogues, amounting to 187 hours of speech data grounded on 16, 229 unique images. The dataset will enable the development of `speech recognition`, `speech and text translation` systems for Bemba, as well as facilitate research in language grounding and multimodal model development.
+
+This work has been accepted to the ACL 2023 conference (main). The pre-print is available [HERE](https://arxiv.org/pdf/2305.17202.pdf)!
 
 #### File Structure
 -----------------
