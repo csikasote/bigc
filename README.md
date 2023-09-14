@@ -1,82 +1,40 @@
 
-# Multimodal Datasets for the Bemba Language
+# BIG-C: a Multimodal Multi-Purpose Dataset for Bemba
 [![License: CC BY NC ND 4.0](https://img.shields.io/badge/License-CC_BY_NC_ND_4.0-green.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 ---------------------------------------------
 
 #### Introduction
-This repository contains the data resources for the project `multimodal datasets for the Bemba language`.  The dataset contains 16, 229 image-grounded-conversations in the Bemba language of Zambia, 92, 117 sentences/utterances amounting to 187 hours of speech data. The dataset will enable the development of `speech recognition`, `speech and text translation` systems for Bemba, as well as facilitate research in language grounding and multimodal model development. The summary of the dataset is given below:
+This repository contains the data resources for the project `multimodal datasets for the Bemba language`.  The dataset consists ofa parallel corpus of speech and transcriptions of image-grounded dialogues between Bemba speakers and their corresponding English translations. It contains 92, 117 spoken utterances of both complete and incomplete dialogues, amounting to 187 hours of speech data grounded on 16, 229 unique images. The dataset will enable the development of `speech recognition`, `speech and text translation` systems for Bemba, as well as facilitate research in language grounding and multimodal model development.
 
+This work has been accepted to the ACL 2023 conference (main). The pre-print is available [HERE](https://arxiv.org/pdf/2305.17202.pdf)!
 
-<div class="tg-wrap"><table>
-<thead>
-  <tr>
-    <th>ID</th>
-    <th>Description</th>
-    <th>Number</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td>1</td>
-    <td>number of unique images</td>
-    <td>16, 229</td>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td>total number of spoken utterances/sentences </td>
-    <td>92, 117</td>
-  </tr>
-  <tr>
-    <td>3</td>
-    <td>number of transcriptions translated to English</td>
-    <td>92, 117</td>
-  </tr>
-  <tr>
-    <td>4</td>
-    <td>total number of hours transcribed speech</td>
-    <td>187</td>
-  </tr>
-  <tr>
-    <td>5</td>
-    <td>number of hours translated to English</td>
-    <td>187</td>
-  </tr>
-  <tr>
-    <td>6</td>
-    <td>number of complete conversations</td>
-    <td>19, 011</td>
-  </tr>
-</tbody>
-</table></div>
-
-#### File Organization
+#### File Structure
 -----------------
 
-      igc-mu-cibemba          
+      big-c dataset          
           .
           ├── Datasheet_for_Dataset_DRAFT
           ├── README.md
           └── data
-              ├── datasheet.csv
-              ├── audio/*.wav
-              ├── image/*.jpg
-              └── splits/
-                  ├── conversations/
-                  │   ├── conversations.jsonl
-                  │   ├── duplicate.zip
-                  │   ├── test.jsonl
-                  │   ├── train.jsonl
-                  │   ├── unaligned.jsonl
-                  │   └── valid.jsonl
-                  ├── *.jsonl
-                  └── *.tsv
+              └── bem
+                  ├── datasheet.csv
+                  ├── audio/*.wav
+                  ├── image/*.jpg
+                  └── splits/
+                      ├── conversations/
+                      │   ├── conversations.jsonl
+                      │   ├── duplicate.zip
+                      │   ├── test.jsonl
+                      │   ├── train.jsonl
+                      │   ├── unaligned.jsonl
+                      │   └── valid.jsonl
+                      ├── *.jsonl
+                      └── *.tsv
 
 * `/data/datasheet.csv` the main data file
 * `/data/audio/*.wav` contains the audio files
 * `/data/image/*.jpg` contains the image files
 * `/data/splits/*` contains the dataset splits aligned to original `Flickr30K` splits.
-
-NB: If you are running experiments in Colab, you can generate the splits for the ASR, MT and ST experiments using the Colab file [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1A1YTL9iJYknevRCJe-XE-DBX0-UooWNh/view?usp=sharing).
 
 #### Team
 ----------------------------
