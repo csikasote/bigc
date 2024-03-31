@@ -36,7 +36,7 @@ This work has been accepted to the ACL 2023 conference (main). The pre-print is 
 * `/data/image/*.jpg` contains the image files
 * `/data/splits/*` contains the dataset splits aligned to original `Flickr30K` splits.
 
-#### Cite
+#### Citation
 
 Cite as follows if you use this work in research:
 
