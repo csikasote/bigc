@@ -36,6 +36,30 @@ This work has been accepted to the ACL 2023 conference (main). The pre-print is 
 * `/data/image/*.jpg` contains the image files
 * `/data/splits/*` contains the dataset splits aligned to original `Flickr30K` splits.
 
+#### Cite
+
+Cite as follows if you use this work in research:
+
+      @inproceedings{sikasote-etal-2023-big,
+          title = "{BIG}-{C}: a Multimodal Multi-Purpose Dataset for {B}emba",
+          author = "Sikasote, Claytone  and
+            Mukonde, Eunice  and
+            Alam, Md Mahfuz Ibn  and
+            Anastasopoulos, Antonios",
+          editor = "Rogers, Anna  and
+            Boyd-Graber, Jordan  and
+            Okazaki, Naoaki",
+          booktitle = "Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+          month = jul,
+          year = "2023",
+          address = "Toronto, Canada",
+          publisher = "Association for Computational Linguistics",
+          url = "https://aclanthology.org/2023.acl-long.115",
+          doi = "10.18653/v1/2023.acl-long.115",
+          pages = "2062--2078",
+          abstract = "We present BIG-C (Bemba Image Grounded Conversations), a large multimodal dataset for Bemba. While Bemba is the most populous language of Zambia, it exhibits a dearth of resources which render the development of language technologies or language processing research almost impossible. The dataset is comprised of multi-turn dialogues between Bemba speakers based on images, transcribed and translated into English. There are more than 92,000 utterances/sentences, amounting to more than 180 hours of audio data with corresponding transcriptions and English translations. We also provide baselines on speech recognition (ASR), machine translation (MT) and speech translation (ST) tasks, and sketch out other potential future multimodal uses of our dataset. We hope that by making the dataset available to the research community, this work will foster research and encourage collaboration across the language, speech, and vision communities especially for languages outside the {``}traditionally{''} used high-resourced ones. All data and code are publicly available: [\url{https://github.com/csikasote/bigc}](\url{https://github.com/csikasote/bigc}).",
+      }
+
 #### Team
 ----------------------------
 
